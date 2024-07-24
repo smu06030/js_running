@@ -1,0 +1,19 @@
+{
+  "name": "js_running",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smu06030/js_running.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smu06030/js_running/issues"
+  },
+  "homepage": "https://github.com/smu06030/js_running#readme"
+}
